@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "total 64
+drwxr-xr-x 2 root root   207 Mar  9 16:18 .
+drwxr-xr-x 4 root root    60 Mar  9 15:45 ..
+-rwxr-xr-x 1 root root    73 Mar  9 14:12 0-current_working_directory
+-rwxr-xr-x 1 root root    68 Mar  9 15:55 1-listit
+-rw-r--r-- 1 root root 12288 Mar  9 15:50 .1-listit.swo
+-rw-r--r-- 1 root root 12288 Mar  9 15:46 .1-listit.swp
+-rwxr--r-- 1 root root    25 Mar  9 16:16 2-bring_me_home
+-rw-r--r-- 1 root root 12288 Mar  9 16:12 .2-bring_me_home.swp
+-rw-r--r-- 1 root root     0 Mar  9 16:18 3-listfiles
+-rw------- 1 root root 12288 Mar  9 15:11 .l-listic.swp
+-rw-r--r-- 1 root root    33 Mar  9 14:45 README.md"
