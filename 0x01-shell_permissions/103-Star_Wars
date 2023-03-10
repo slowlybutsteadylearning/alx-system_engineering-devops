@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv /path/to/StarWarsIV.mp4
