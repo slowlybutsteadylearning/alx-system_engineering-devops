@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "root"
+sudo chmod u+x hello
